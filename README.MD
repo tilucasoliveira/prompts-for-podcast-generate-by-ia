@@ -25,6 +25,7 @@ Projeto Artigos Gerados por I.A.s
 O projeto tem com objetivo, gerar amostras de um podcast com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
 <a href="https://github.com/tilucasoliveira/prompts-for-podcast-generate-by-ia/blob/main/output/podcast_editado.mp3" title="Listen Now"> 🎧Clique aqui para ouvir</a>
+<embed height="60" type="audio/midi" width="144" src="https://github.com/tilucasoliveira/prompts-for-podcast-generate-by-ia/blob/main/output/podcast_editado.mp3" volume="60" loop="false" autostart="false" />
 
 ## 💻 Tecnologias utilizadas no projeto
 
