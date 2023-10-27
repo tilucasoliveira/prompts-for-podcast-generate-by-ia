@@ -2,7 +2,7 @@
 Projeto Artigos Gerados por I.A.s
 
 <p align="center"> 
-    <img src="" width="100" />
+    <img src="https://github.com/tilucasoliveira/prompts-for-podcast-generate-by-ia/blob/main/assets/banner.png" width="100" />
 </p>
 
 
@@ -14,7 +14,7 @@ Projeto Artigos Gerados por I.A.s
 
 
 <p align="center">
-<img src="https://github.com/tilucasoliveira/prompts-recipe-to-create-a-ebook-main/blob/main/assets/podcapa2.png" width="400" />
+<img src="https://github.com/tilucasoliveira/prompts-for-podcast-generate-by-ia/blob/main/assets/podcapa2.png" width="400" />
 </p>
 
 # Projeto Podcast Gerado por I.A.s
@@ -24,13 +24,14 @@ Projeto Artigos Gerados por I.A.s
 
 O projeto tem com objetivo, gerar amostras de um podcast com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
-<a href="" title="Listen Now"> 📕Clique aqui para ouvir</a>
+<a href="https://github.com/tilucasoliveira/prompts-for-podcast-generate-by-ia/blob/main/output/podcast_editado.mp3" title="Listen Now"> 🎧Clique aqui para ouvir</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - para gerar o título e o conteúdo 
 - [Lexica.art](https://lexica.art/) - para gerar imagens
 - [elevenlabs.io](https://elevenlabs.io/) - para gerar as narrações
+- [audiomass.co](https://audiomass.co/) - para editar o podcast
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
